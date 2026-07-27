@@ -1,0 +1,22 @@
+# Local R/Python state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+__pycache__/
+*.pyc
+
+# Public inputs and generated intermediates
+data/raw/
+data/processed/
+
+# Regenerated outputs
+results/*
+!results/README.md
+figures/*
+!figures/README.md
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
