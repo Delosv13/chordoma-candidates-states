@@ -1,6 +1,6 @@
 # Chordoma candidate states
 
-Reproducible public-data analysis code for the study **Public cross-cohort reanalysis nominates immune/interferon and TBXT-linked candidate states in chordoma**.
+Reproducible public-data analysis code for the study **An evidence-layer framework for public-omics integration in rare cancers:immune/interferon and TBXT-linked candidate states in chordoma**.
 
 The repository integrates public transcriptomic and proteomic datasets at the signature and pathway level. It contains analysis code only: no manuscript generator, cover-letter generator, submission packaging, editorial workflow, or internal task scripts are included.
 
