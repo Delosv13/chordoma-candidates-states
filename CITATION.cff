@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository and the associated manuscript."
+title: "An evidence-layer framework for public-omics integration in rare cancers: immune/interferon and TBXT-linked candidate states in chordoma"
+type: software
+authors:
+  - family-names: "Caribé Sena"
+    given-names: "Arthur"
+    affiliation: "Zarns Medical School, Salvador, Bahia, Brazil"
+  - family-names: "Santana"
+    given-names: "Márcio Igor"
+    affiliation: "Zarns Medical School, Salvador, Bahia, Brazil; Fundação Oswaldo Cruz, Instituto Gonçalo Moniz, Salvador, Bahia, Brazil"
+    orcid: "https://orcid.org/0009-0005-7162-7534"
+  - family-names: "de Oliveira Cruz"
+    given-names: "João Vitor"
+  - family-names: "Galvão Barros de Oliveira"
+    given-names: "Daniela"
+    affiliation: "Hospital Santa Izabel, Salvador, Brazil; Bahia Oncology Center, Oncoclínicas, Salvador, Bahia, Brazil"
+  - family-names: "Miranda de Avellar"
+    given-names: "Leonardo"
+    affiliation: "Department of Neurosurgery, Hospital Geral Roberto Santos, Salvador, Bahia, Brazil"
+repository-code: "https://github.com/Delosv13/chordoma-candidates-states"
+license: MIT
+date-released: 2026-08-10
+keywords:
+  - chordoma
+  - TBXT
+  - public data reanalysis
+  - gene-set scoring
+  - evidence layers
+  - reproducible-research
+abstract: >-
+  Reproducible analysis code for a layered cross-cohort reanalysis of public
+  chordoma transcriptomic and proteomic datasets. Discovery, functional
+  perturbation, developmental context, held-out validation, and confirmatory
+  layers are kept explicitly separate, and integration is performed only at the
+  level of prespecified signature and pathway scores. Outputs are
+  hypothesis-prioritization maps, not clinical classifiers.
