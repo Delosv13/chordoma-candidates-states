@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the repository and the associated manuscript."
-title: "An evidence-layer framework for public-omics integration in rare cancers: immune/interferon and TBXT-linked candidate states in chordoma"
+title: "Public Cross-Cohort Reanalysis Nominates Immune/Interferon and TBXT-Linked Candidate States in Chordoma"
 type: software
 authors:
   - family-names: "Caribé Sena"
